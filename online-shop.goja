@@ -1,0 +1,7 @@
+model online-shop {
+
+server Server {
+}
+
+}
+
